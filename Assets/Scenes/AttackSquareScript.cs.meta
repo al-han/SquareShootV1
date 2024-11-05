@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4c92db67dfb83564e9ea3d7b4ef803a2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AttackSquareObject: {instanceID: 0}
+  - AttackSpawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
